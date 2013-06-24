@@ -2,10 +2,10 @@
 // I am the comments
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.phonegap.facebook"
-    version="0.2.1">
+    id="com.phonegap.facebookX"
+    version="0.0.1">
 
-    <name>Facebook Connect</name>
+    <name>FacebookX Connect</name>
 
     <asset src="www/cdv-plugin-fb-connect.js" target="cdv-plugin-fb-connect.js" />
     <asset src="www/facebook_js_sdk.js" target="facebook_js_sdk.js" />
