@@ -24,6 +24,8 @@
       <engine name="cordova" version=">=2.1.0" />
     </engines>
     
+    <license>MIT</license>
+    
     <!-- android -->
     <platform name="android">
 
